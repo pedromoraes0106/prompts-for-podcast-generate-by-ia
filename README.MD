@@ -18,9 +18,11 @@
 </a>
 </p>
 
-<a href="https://drive.google.com/file/d/1EYMKXBnnsmo9EvZMCPMw3Ukvv70cIMXq/view?usp=sharing" text-align="center">
-    preview do podcast
-</p>
+<div align="center">
+    <a href="https://drive.google.com/file/d/1EYMKXBnnsmo9EvZMCPMw3Ukvv70cIMXq/view?usp=sharing">
+        preview do podcast
+    </p>
+</div>
 
 # Projeto Podcast Gerado por I.A.s
 
