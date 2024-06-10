@@ -24,10 +24,6 @@
 
 <div align="center">
     <audio controls width="200px" src="output/podcast_finalizado.MP3" controls title="Podcast finalizado" ></audio>
-        <audio controls>
-                    <source src="/output/podcast_finalizado.MP3" type="audio/mp3">
-                    Seu navegador não suporta o elemento de Áudio
-                </audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
